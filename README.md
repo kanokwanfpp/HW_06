@@ -4,14 +4,14 @@
 <body>
     <div class="w3-container">
         <br /> <br /> <br /> 
-  <img src="fon.png" class="w3-round-xxlarge" w3-center style="width:50%">
+  
 </div>
 </body>
 </html>
 
 
 ## Welcome to Profile Kanokwan
-<img src="fon.png">
+<img src="fon.png" class="w3-round-xxlarge" w3-center style="width:50%">
 <br>ชื่อ-สกุล : นางสาวกนกวรรณ ฝีปาเพราะ
 <br>เคยศึกษาที่ โรงเรียนเชียงกลาง"ประชาพัฒนา"
 <br>ปัจจุบันศึกษาอยู่ที่ มหาวิทยาลัยเนชั่น
