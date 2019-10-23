@@ -11,7 +11,7 @@
 
 
 ## Welcome to Profile Kanokwan
-<img src="fon.png" class="w3-round-xxlarge" w3-center style="width:50%">
+<img src="fon.png.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
 <br>ชื่อ-สกุล : นางสาวกนกวรรณ ฝีปาเพราะ
 <br>เคยศึกษาที่ โรงเรียนเชียงกลาง"ประชาพัฒนา"
 <br>ปัจจุบันศึกษาอยู่ที่ มหาวิทยาลัยเนชั่น
