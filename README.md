@@ -69,7 +69,7 @@
 <a href="https://github.com/kanokwanfpp/wedPyramidPHP/blob/master/fon_36.php" class="button">pyramid36</a>
 
 
-### Pree web host [000webhost](https://fon123.000webhostapp.com/fon_01.php) // [infinity]
+### Pree web host [000webhost](https://fon123.000webhostapp.com/) // [infinity]
 
 
 ### [Nortwind .io](https://github.com/kanokwanfpp/Nothwind) 
